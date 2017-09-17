@@ -1,6 +1,7 @@
 # ObservableBackground
 
-Helps to set any resources to the view
+Helps to set any resources to the view.
+
 Ability to set: int Color, @ColorRes, @DrawableRes, Drawable, Bitmap 
 
 1. CopyPaste ObservableBackground.kt to your project
